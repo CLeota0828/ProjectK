@@ -1,4 +1,2 @@
 # ProjectK
-"""
-Created by: Charles Leota
-"""
+Made by: Charles Leota
