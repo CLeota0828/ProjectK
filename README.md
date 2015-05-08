@@ -1,2 +1,2 @@
 # ProjectK
-<h1 align="center">Created By: Charles</h1>
+<p>Created By: Charles Leota</p>
